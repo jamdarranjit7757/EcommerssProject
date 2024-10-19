@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.waayu"
+    namespace = "com.example.ecommers"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.waayu"
+        applicationId = "com.example.ecommers"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
